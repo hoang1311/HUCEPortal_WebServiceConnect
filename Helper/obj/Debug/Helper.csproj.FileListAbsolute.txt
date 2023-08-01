@@ -1,0 +1,2 @@
+D:\Web\HUCEPortal\Helper\obj\Debug\Helper.csproj.AssemblyReference.cache
+D:\Web\HUCEPortal\Helper\obj\Debug\Helper.csproj.CoreCompileInputs.cache
